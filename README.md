@@ -30,4 +30,4 @@ MAINTAINERS
 This project is maintained by Miriam Bade.
 For any questions, you can reach out to me by email: yukinomiriam@gmail.com.
 
-![alt text]()
+![alt text](https://github.com/yukinomiriam/mit-eyes-exerscise/blob/main/EyesExercise.png)
