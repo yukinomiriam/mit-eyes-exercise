@@ -8,6 +8,7 @@ CONTENTS OF THIS FILE
  * How to Run
  * Roadmap of Future Improvements
  * Maintainers
+ * License
  
  INTRODUCTION
 ------------
@@ -32,3 +33,7 @@ This project is maintained by Miriam Bade.
 For any questions, you can reach out to me by email: yukinomiriam@gmail.com.
 
 ![alt text](https://github.com/yukinomiriam/mit-eyes-exerscise/blob/main/EyesExercise.png)
+
+LICENSE
+------------
+[MIT License](https://github.com/yukinomiriam/mit-pac-men/blob/main/LICENSE)
